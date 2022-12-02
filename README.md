@@ -6,3 +6,5 @@
 ```
 dotnet run
 ```
+
+iniciando o vs code pelo github e testando
