@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Tamagochi.Modelo
 {
-    public class Mascote
+    public class Results
     {
-        public string name { get; set; }
+        public string? name { get; set; }
     }
 }
